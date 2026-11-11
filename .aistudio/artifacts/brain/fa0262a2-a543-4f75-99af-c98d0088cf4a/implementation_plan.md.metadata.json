@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for upgrading VisionGuard AI with real-time MediaPipe iris/blink/gaze tracking, live drowsiness analytics & alerts, and a modern YouTube Studio / Instagram Dark inspired UI while preserving server-side Gemini diagnostics.",
+  "updatedAt":  "2026-11-10T03:27:30.556580814Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

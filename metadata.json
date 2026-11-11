@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard AI",
+  "description": "Real-time AI vision monitoring and classification system powered by Teachable Machine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
